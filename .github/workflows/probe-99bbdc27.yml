@@ -1,0 +1,7 @@
+name: fullval-probe
+on: [push, workflow_dispatch]
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "fullval probe 99bbdc27 liveness"
