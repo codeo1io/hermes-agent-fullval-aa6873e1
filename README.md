@@ -241,3 +241,4 @@ for activation, daily use, dependency changes, and leaving the environment.
 MIT — see [LICENSE](LICENSE).
 
 Built by [Nous Research](https://nousresearch.com).
+<!-- conductor base-control marker: run 7e15adc30286 full_tests b45f5109927b (docs-only, no executable change) -->
